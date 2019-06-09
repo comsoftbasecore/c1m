@@ -1,0 +1,17 @@
+﻿
+字符型通信
+server_mulport_epoll_3.0
+
+禁用NAGLE
+server_mulport_epoll_3.1.c
+
+server_mulport_epoll_3.1.1.c
+服务器禁用打印
+人数限制 40 w
+
+
+server_mulport_epoll_3.1.2.c
+人数限制改成 70w
+
+server_mulport_epoll_3.1.6.c
+cpu绑定
